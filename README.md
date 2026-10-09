@@ -170,7 +170,7 @@ loan-default-prediction/
 ## Contact Information
 
 **Author**: Priyanka Bolem  
-**Email**: priyankabolem@gmail.com  
+**Email**: priyankabolem93@gmail.com  
 
 ## License
 
